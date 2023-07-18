@@ -1,4 +1,4 @@
-# legacy-ftir-jupyter-notebook
+# ftir-jupyter-notebook
 
 ## functions.py
 
